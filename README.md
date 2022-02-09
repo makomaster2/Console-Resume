@@ -1,6 +1,6 @@
 You will create a resume that exists entirely within the developer console.
 
-Objectives
+##Objectives
 Create a project folder linked to github, and inside that folder an index.html file and a javascript file. Link the JavaScript file to the index.html file.
 Your "resume" will simply be a series of console.log statements to print the resume data to the console.
 When you open index.html in the browser, it will be a blank page. That's okay. Your resume will be in the console. (command + option + I, or F12)
